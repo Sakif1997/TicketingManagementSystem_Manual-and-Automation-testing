@@ -57,3 +57,8 @@ Issue list overview:
 ![e1](https://github.com/Sakif1997/WebAutomation/assets/45315685/2e933abd-9b47-4c76-9981-9ac8bcfd1d39)
 ![e2](https://github.com/Sakif1997/WebAutomation/assets/45315685/578a1445-2cff-4c53-8cc5-c88dda4286ae)
 ![e4](https://github.com/Sakif1997/WebAutomation/assets/45315685/db9594d3-da86-414b-9abe-4f64286f7067)
+
+## Automation
+The way my code works:
+https://github.com/Sakif1997/TicketingManagementSystem_Manual-and-Automation-testing/assets/45315685/cbd8c8eb-a626-4d5e-96a6-49d5bedf388b
+
