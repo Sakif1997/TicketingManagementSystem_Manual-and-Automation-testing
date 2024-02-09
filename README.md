@@ -2,8 +2,9 @@
 # Ticketing Management System Testing
 Test site: https://tms-test.celloscope.net/dashboard
 
-login info: UserID: titu.admin;
-            Password: sa
+login info:  
+UserID: titu.admin;  
+Password: sa
 
 The following instructions will help you navigate those testing pages.
 Login to the web with the given credentials above. There is a menu, named Project, at the left side menu bar. Click on it. You will notice, there is a submenu named Project List. At the project list page, there is a list of projects where you can add, edit, search and view the projects.
